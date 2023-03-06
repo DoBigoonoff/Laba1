@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3D631EA2-97FD-4D9C-B797-C8950A3BAA2C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laba1/ListSpiral.cs">
+    <Files>
+      <File FileName="Laba1/Program.cs" Line="3" Column="3" />
+      <File FileName="Laba1/ListSpiral.cs" Line="1" Column="1" />
+      <File FileName="Laba1/Combinations.cs" Line="35" Column="1" />
+      <File FileName="Laba1/LinQ.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laba1" expanded="True">
+            <Node name="Laba1" expanded="True">
+              <Node name="ListSpiral.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Laba1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
