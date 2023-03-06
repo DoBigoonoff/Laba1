@@ -4,4 +4,4 @@ ListSpiral list = new ListSpiral(3);
 Combinations dictionary = new Combinations();
 //dictionary.Combine();
 Linq linq = new Linq();
-//linq.FirstElements();
+linq.FirstElements();
